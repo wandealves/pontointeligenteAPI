@@ -8,8 +8,8 @@ import org.springframework.test.context.ActiveProfiles;
 @ActiveProfiles("test")
 public class PontointeligenteApiApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+	//@Test
+	//void contextLoads() {
+	//}
 
 }
